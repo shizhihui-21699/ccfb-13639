@@ -16,3 +16,7 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+
+# sct generated artifacts
+reports/
+*.run.log
